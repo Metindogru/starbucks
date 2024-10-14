@@ -30,7 +30,7 @@
 - **Google Fonts**: For beautiful typography.
 
 
-  # Screen Recording
+# Screen Recording
   
 -A preview of my Starbucks project is included in the gif below.
 
