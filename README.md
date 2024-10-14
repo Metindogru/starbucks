@@ -30,9 +30,10 @@
 - **Google Fonts**: For beautiful typography.
 
 
-  #Screen Recording
+  # Screen Recording
   
 -A preview of my Starbucks project is included in the gif below.
+
 ![Starbucks gif](https://github.com/user-attachments/assets/3c973d52-2c71-47b4-8495-045637a1c882)
 
 King Regards.
