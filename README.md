@@ -12,13 +12,13 @@
 
 
 - Responsive design that adapts to different screen sizes.
-- 
+  
 - Smooth animations and transitions.
-- 
+  
 - Navigation menu for seamless browsing.
-- 
+  
 - Clean, modern UI inspired by Starbucks.
-- 
+  
 
  # Technologies Used
 
